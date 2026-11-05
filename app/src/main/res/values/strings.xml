@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Prompter</string>
+    <string name="channel_playback_name">Playback</string>
+    <string name="channel_playback_description">Controls for the script currently being read aloud</string>
+</resources>
